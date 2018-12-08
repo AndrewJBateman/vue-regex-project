@@ -1,21 +1,12 @@
-# regex-project
+## vue-regex-project
 
-> A Vue.js project
+Working. Highlights search text within a string. 
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+# Notes:
 
-# serve with hot reload at localhost:8080
-npm run dev
+Functionality can be added to this simple app.  
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+link to: ["Highlighting Text Within a String Using Vue.js and Regular Expressions", by Nic Raboy of X-Team.com](https://x-team.com/blog/highlight-text-vue-regex/)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

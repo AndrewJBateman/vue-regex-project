@@ -5,7 +5,7 @@
             Search: <input type="text" v-model="query" placeholder="Search" />
         </div>
         <br />
-        <div v-html="highlight()"></div> //function used so html will be rendered
+        <div v-html="highlight()"></div>
     </div>
 </template>
 
