@@ -1,45 +1,44 @@
-# Vue Regex Project
+# :zap: Vue Regex Project
 
-Vue app to highlight matching search text in a string using a regular expression.
+* Vue app to highlight matching search text in a string using a regular expression.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Vue Regex Project](#zap-vue-regex-project)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## General info
+## :books: General info
 
 * The matching text is replaced with a HTML-wrapped equivalent that has a class that changes the background color.
-
 * A regular expression is used to find and replace the matching search text.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/highlighted-search-text.png).
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Vue framework v2.6.10](https://vuejs.org/)
-
-* [Vuex v3.0.1](https://github.com/vuejs/vuex) a central location from which state data is stored, modified and accessed.
-
-* [Vue CLI v3.6.0](https://github.com/vuejs/vue-cli)
-
+* [Vue framework v2](https://vuejs.org/)
+* [Vuex v3](https://github.com/vuejs/vuex) a central location from which state data is stored, modified and accessed.
+* [Vue CLI v3](https://github.com/vuejs/vue-cli)
 * [Vue DevTools extension for Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) was useful for debugging and seeing what was happening with the state when Vuex was used.
 
-## Setup
+## :floppy_disk: Setup
 
-Run `npm run dev` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+* Run `npm run dev` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
-## Code Examples
+## :computer: Code Examples
 
 * extract of `<script>` from App.vue
 
@@ -72,20 +71,19 @@ export default {
 
 ```
 
-## Features
+## :cool: Features
 
-* search for any text string within the lorem ipsum texwt supplied and it will be highlighted in bright green.
+* search for any text string within the lorem ipsum text supplied and it will be highlighted in bright green.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status: Tested and 100% working.
+* To-Do: nothing
 
-* To-Do: add functionality.
-
-## Inspiration
+## :clap: Inspiration
 
 * [Nic Raboy of X-Team.com: "Highlighting Text Within a String Using Vue.js and Regular Expressions"](https://x-team.com/blog/highlight-text-vue-regex/)
 
-## Contact
+## :envelope: Contact
 
-Created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
