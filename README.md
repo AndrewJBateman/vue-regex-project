@@ -1,8 +1,10 @@
 # :zap: Vue Regex Project
 
 * Vue app to highlight matching search text in a string using a regular expression.
-
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/vue-regex-project?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/vue-regex-project?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/vue-regex-project?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/vue-regex-project?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -84,6 +86,10 @@ export default {
 
 * [Nic Raboy of X-Team.com: "Highlighting Text Within a String Using Vue.js and Regular Expressions"](https://x-team.com/blog/highlight-text-vue-regex/)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
